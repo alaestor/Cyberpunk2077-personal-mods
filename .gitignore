@@ -1,4 +1,6 @@
-packed/
-install_log.xml
-layout.xml
+.*
+*.zip
 *_DAD.json
+layout.xml
+install_log.xml
+packed/
