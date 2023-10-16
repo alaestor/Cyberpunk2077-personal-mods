@@ -150,16 +150,12 @@ Using while testing/developing
 
 ### Virtual Shops
 
-| Mod                                                                                                    | Version |
-| ------------------------------------------------------------------------------------------------------ | ------- |
-| [Da BOTO Market](https://www.nexusmods.com/cyberpunk2077/mods/9595)                                    | 1.1     |
-| [Da Mod Market](https://www.nexusmods.com/cyberpunk2077/mods/9739)                                     | 1.2     |
-| [Da Recipe Market](https://www.nexusmods.com/cyberpunk2077/mods/9787)                                  | 1.1     |
-| [Upgrade Materials Shop](https://www.nexusmods.com/cyberpunk2077/mods/10033)                           | 1.0.0   |
-| [Weapon Mods Store - Virtual Atelier - OMEGA Inc.](https://www.nexusmods.com/cyberpunk2077/mods/10027) | 1.1     |
-| [Cyberware Capacity Shards Shop](https://www.nexusmods.com/cyberpunk2077/mods/10031)                   | 1.0.0   |
+| Mod                                                                                  | Version |
+| ------------------------------------------------------------------------------------ | ------- |
+| [Upgrade Materials Shop](https://www.nexusmods.com/cyberpunk2077/mods/10033)         | 1.0.0   |
+| [Cyberware Capacity Shards Shop](https://www.nexusmods.com/cyberpunk2077/mods/10031) | 1.0.0   |
 
-- Note: the "Da" shops by [jForro93](https://www.nexusmods.com/users/133704098) are kind of dumb... Maybe remove?
+- No good AIO vanilla shop mods exist atm. I'm contemplating making "Vanilla Atelier". "Radioshack" for components, quickhacks, etc. Something for weapons ("Hekmatyar"?). And something for clothes. Or maybe multiple stores for clothes if there are too many...
 
 ### Miscellaneous
 
