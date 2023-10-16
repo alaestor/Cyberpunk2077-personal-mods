@@ -120,14 +120,15 @@ Using while testing/developing
 
 ### Movement
 
-| Mod                                                                                   | Version                            |
-| ------------------------------------------------------------------------------------- | ---------------------------------- |
-| [Disable Vehicle Knockdown](https://www.nexusmods.com/cyberpunk2077/mods/6938)        | 2.0                                |
-| [Better Dash - Air Dash](https://www.nexusmods.com/cyberpunk2077/mods/9452)           | 1.0.0.0 *(+ zero decel, modified)* |
-| [Infinite Jump for CP2077 (2.0)](https://www.nexusmods.com/cyberpunk2077/mods/9268)   | 2.0                                |
-| [No Hard Falls](https://www.nexusmods.com/cyberpunk2077/mods/5978)                    | v1                                 |
-| [Sprint while blocking and aiming](https://www.nexusmods.com/cyberpunk2077/mods/9896) | 1.0.0.0                            |
-| [More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043)           | 1.02                               |
+| Mod                                                                                   | Version            |
+| ------------------------------------------------------------------------------------- | ------------------ |
+| [Disable Vehicle Knockdown](https://www.nexusmods.com/cyberpunk2077/mods/6938)        | 2.0                |
+| [Better Dash - Air Dash](https://www.nexusmods.com/cyberpunk2077/mods/9452)           | 1.0.0.0            |
+| [Smoother Dodge And Dash](https://www.nexusmods.com/cyberpunk2077/mods/9331)          | 1.0 *(ultraspeed)* |
+| [Infinite Jump for CP2077 (2.0)](https://www.nexusmods.com/cyberpunk2077/mods/9268)   | 2.0                |
+| [No Hard Falls](https://www.nexusmods.com/cyberpunk2077/mods/5978)                    | v1                 |
+| [Sprint while blocking and aiming](https://www.nexusmods.com/cyberpunk2077/mods/9896) | 1.0.0.0            |
+| [More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043)           | 1.02               |
 
 ### World & Travel
 
