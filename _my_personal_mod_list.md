@@ -163,11 +163,10 @@ Using while testing/developing
 | ------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [Hacking Gets Tedious](https://www.nexusmods.com/cyberpunk2077/mods/6956)                         | 1.1                                   |
 | [Weathermancer](https://www.nexusmods.com/cyberpunk2077/mods/9805)                                | 1.0                                   |
-| [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)                                 | 1.1.5                                 |
-| [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)                                 | 1.3.3 *(+ override + hud)*            |
-| [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302)                                   | 1.0.2                                 |
-| [Unequip unremovable scopes](https://www.nexusmods.com/cyberpunk2077/mods/9616)                   | 1.0.0.1                               |
-| [Item Modification Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/9449)                   | 1.0 *(attachments & mods ver.)*       |
+| [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)                                 | 1.1.6                                 |
+| [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)                                 | 1.4.3, override 1.0.0, hud 1.0.0      |
+| [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302)                                   | 1.1.0                                 |
+| [Item Modification Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/9449)                   | 1.2 *(attachments & mods ver.)*       |
 | [Unlocked Attachments](https://www.nexusmods.com/cyberpunk2077/mods/9358)                         | 1.0.1.1                               |
 | [Her Majesty Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/10026)                          | 1.6 *(fr and dmg ver.)*               |
 | [Vehicle Customizer](https://www.nexusmods.com/cyberpunk2077/mods/3689)                           | 3.1                                   |
@@ -197,7 +196,7 @@ Using while testing/developing
 | [Inventory Glitch Effect Removal](https://www.nexusmods.com/cyberpunk2077/mods/3251)     | 1.0             |
 | [Quantum Tuner Glitch VFX Disable](https://www.nexusmods.com/cyberpunk2077/mods/9734)    | 1.0             |
 | [No More Sniper Scope Glitch FX](https://www.nexusmods.com/cyberpunk2077/mods/10001)     | 1.0             |
-| [Preem Scopes](https://www.nexusmods.com/cyberpunk2077/mods/10021)                       | 0.9.0           |
+| [Preem Scopes](https://www.nexusmods.com/cyberpunk2077/mods/10021)                       | 0.10.0          |
 
 ### Cosmetic
 
