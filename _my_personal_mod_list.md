@@ -225,6 +225,8 @@ Using while testing/developing
 | [Extended and Improved Headlights](https://www.nexusmods.com/cyberpunk2077/mods/5013)                   | 1.1                      |
 | [Persistent Throwable Weapons](https://www.nexusmods.com/cyberpunk2077/mods/9432)                       | 1.0.0                    |
 | [MPH to KMH](https://www.nexusmods.com/cyberpunk2077/mods/9713)                                         | 1.0 *(realistic values)* |
+| [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184)       | 1.0 *(4k, non-redmod)*   |
+| [Dirt Begone (Clean Mirrors)](https://www.nexusmods.com/cyberpunk2077/mods/8131)                        | 1.2.0a                   |
 
 ### NSFW
 
