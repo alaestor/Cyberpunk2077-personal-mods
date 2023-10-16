@@ -22,15 +22,15 @@
 
 ## Updated (v2.0.x)
 
-- [v2's City of Dreams Ultimate Atelier 2.0 (Virtual Atelier)](https://www.nexusmods.com/cyberpunk2077/mods/10064) (probably a good AIO)
-
 - [Graven's Atelier Collection](https://www.nexusmods.com/cyberpunk2077/mods/9834)
 
 - [Never Lock Quickhacks](https://www.nexusmods.com/cyberpunk2077/mods/9819)
 
 - [Preem Weaponsmith 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9692)
 
-- [Shadowrunner stops trace](https://www.nexusmods.com/cyberpunk2077/mods/9835?tab=posts) (redundant with precursor cyberdeck?)
+- [AWSC - Advanced Weapon Stat Customization](https://www.nexusmods.com/cyberpunk2077/mods/9937)
+
+- 
 
 - [Disable Reveal Position Hack](https://www.nexusmods.com/cyberpunk2077/mods/9306?tab=files) (redundant with precursor cyberdeck?)
 
