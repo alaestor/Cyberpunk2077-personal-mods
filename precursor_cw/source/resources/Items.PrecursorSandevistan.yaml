@@ -45,7 +45,7 @@ Items.PrecursorSandevistan:
       modifierType: Additive
       statType: BaseStats.TimeDilationSandevistanRechargeDuration
     - $type: gamedataConstantStatModifier_Record # Cooldown Base
-      value: 0.0
+      value: 0.01
       modifierType: Additive
       statType: BaseStats.TimeDilationSandevistanCooldownBase
     - $type: gamedataConstantStatModifier_Record # Enter Cost
