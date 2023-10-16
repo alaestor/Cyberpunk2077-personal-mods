@@ -249,6 +249,16 @@ Game.AddToInventory("Items.PrecursorCyberdeck")
 Game.AddToInventory("Items.PrecursorSandevistan")
 ```
 
+### Solomon's Stylish Glasses
+
+```
+Game.AddToInventory("Items.wolv_reed_specs")
+```
+
+```
+Game.AddToInventory("Items.wolv_reed_specs_gold")
+```
+
 ### Military Vest
 
 [Military Vest - ArchiveXL at Cyberpunk 2077 Nexus - Mods and community](https://www.nexusmods.com/cyberpunk2077/mods/9774)
