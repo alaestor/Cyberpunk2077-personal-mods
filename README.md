@@ -8,8 +8,6 @@ No support or warranty. De facto abandonware.
 
 ## Mods
 
-### 
-
 ### Precursor Cyberware
 
 Cheaty cyberware (`precursor_cw`)
@@ -39,6 +37,10 @@ Cheaty cyberware (`precursor_cw`)
   - Resists being traced (experimental)
 
 ## Notes
+
+### _my_personal_mod_list.md
+
+I use this markdown file to keep track of mods for my personal game.
 
 ### Binary Files
 
