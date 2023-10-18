@@ -2,19 +2,7 @@
 
 ## For game Version 2.0.1
 
----
 
-## Known Issues
-
-### Game
-
-- REDmods are broken for 2.0 (CDPR, 2023-10-12)
-
-- Intro skip is broken (CDPR/CET, 2023-10-12)
-
-### Modlist
-
-- None yet
 
 ---
 
