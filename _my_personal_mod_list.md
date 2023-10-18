@@ -40,6 +40,10 @@
 
 - [John Wick Inspired - Militech Omaha Lizzie](https://www.nexusmods.com/cyberpunk2077/mods/7858)
 
+- [Blackwall Saratoga](https://www.nexusmods.com/cyberpunk2077/mods/10159?tab=posts)
+
+- [Quickhacks Boost](https://www.nexusmods.com/cyberpunk2077/mods/10169) (needs some more features)
+
 ## Outdated
 
 - [Let_There_Be_Flight](https://github.com/jackhumbert/let_there_be_flight) (pre-2.0)
