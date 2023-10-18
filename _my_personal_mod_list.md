@@ -66,38 +66,36 @@ Using while testing/developing
 
 ## Custom / Personal
 
-| Mod                                                                           | Version               |
-| ----------------------------------------------------------------------------- | --------------------- |
-| [Personal Mods](https://github.com/alaestor/Cyberpunk2077-personal-mods)      | *(various)*           |
-| [Malorian stats fix (...)](https://www.nexusmods.com/cyberpunk2077/mods/4278) | *Customized, Pre-2.0* |
+| Mod                                                                           | Version                   |
+| ----------------------------------------------------------------------------- | ------------------------- |
+| [Personal Mods](https://github.com/alaestor/Cyberpunk2077-personal-mods)      | *(various)*               |
+| [Malorian stats fix (...)](https://www.nexusmods.com/cyberpunk2077/mods/4278) | *Customized from Pre-2.0* |
 
 ## Libraries
 
-| Mod                                                                               | Version                      |
-|:--------------------------------------------------------------------------------- | ---------------------------- |
-| [redscript](https://github.com/jac3km4/redscript)                                 | 0.5.16                       |
-| [RED4ext](https://github.com/WopsS/RED4ext)                                       | 1.17.0                       |
-| [Codeware](https://github.com/psiberx/cp2077-codeware)                            | 1.4.1                        |
-| [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks/)            | 1.27.1                       |
-| [TweakXL](https://github.com/psiberx/cp2077-tweak-xl/)                            | 1.4.3                        |
-| [ArchiveXL](https://github.com/psiberx/cp2077-archive-xl)                         | 1.7.0                        |
-| [Native Settings](https://www.nexusmods.com/cyberpunk2077/mods/3518)              | 1.95                         |
-| [Material & Texture Replacer](https://www.nexusmods.com/cyberpunk2077/mods/5266)  | 1.2 *(legacy)*               |
-| [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575?tab=files)       | 0.1.1                        |
-| [Browser Extension Framework](https://www.nexusmods.com/cyberpunk2077/mods/10038) | 0.9.1                        |
-| [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)              | 1.1.0 *(full + browser ext)* |
-| [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)           | 2.0.1 *(+ layout patch)*     |
-| [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) | 1.3h                         |
-
-
+| Mod                                                                               | Version                   |
+|:--------------------------------------------------------------------------------- | ------------------------- |
+| [redscript](https://github.com/jac3km4/redscript)                                 | 0.5.16                    |
+| [RED4ext](https://github.com/WopsS/RED4ext)                                       | 1.17.0                    |
+| [Codeware](https://github.com/psiberx/cp2077-codeware)                            | 1.4.1                     |
+| [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks/)            | 1.27.1                    |
+| [TweakXL](https://github.com/psiberx/cp2077-tweak-xl/)                            | 1.4.3                     |
+| [ArchiveXL](https://github.com/psiberx/cp2077-archive-xl)                         | 1.7.0                     |
+| [Native Settings](https://www.nexusmods.com/cyberpunk2077/mods/3518)              | 1.95                      |
+| [Material & Texture Replacer](https://www.nexusmods.com/cyberpunk2077/mods/5266)  | legacy:1.2                |
+| [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575?tab=files)       | 0.1.1                     |
+| [Browser Extension Framework](https://www.nexusmods.com/cyberpunk2077/mods/10038) | 0.9.1                     |
+| [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)              | full:1.1.0, browser:1.1.0 |
+| [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)           | main:2.0.1, layout:2.0.0  |
+| [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) | 1.3h                      |
 
 ## Bugfixes
 
-| Mod                                                                                                                                                          | Version               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| [Phinix Silencer Audio Fix](https://forums.nexusmods.com/index.php?/topic/13293075-unlocked-attachments-cyber-engine-tweaks-update-20/page-3#entry128594127) | 2023-9-29 *(archive)* |
-| [Fix Skill Progression Rewards Not Applying](https://www.nexusmods.com/cyberpunk2077/mods/9879)                                                              | 1.0                   |
-| [Overclock Hack Through Walls](https://www.nexusmods.com/cyberpunk2077/mods/10035)                                                                           | 1.1                   |
+| Mod                                                                                                                                                          | Version           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Phinix Silencer Audio Fix](https://forums.nexusmods.com/index.php?/topic/13293075-unlocked-attachments-cyber-engine-tweaks-update-20/page-3#entry128594127) | archive:2023-9-29 |
+| [Fix Skill Progression Rewards Not Applying](https://www.nexusmods.com/cyberpunk2077/mods/9879)                                                              | 1.0               |
+| [Overclock Hack Through Walls](https://www.nexusmods.com/cyberpunk2077/mods/10035)                                                                           | 1.1               |
 
 ## Mechanics
 
@@ -111,38 +109,38 @@ Using while testing/developing
 
 ### Combat Related
 
-| Mod                                                                                                         | Version                  |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [Beatable Brats](https://www.nexusmods.com/cyberpunk2077/mods/6712)                                         | 1.1                      |
-| [Immersion patch - No crowd panic form using devices](https://www.nexusmods.com/cyberpunk2077/mods/7353)    | 1.2.0 *(CET)*            |
-| [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360) | 1.0.0 *(CET)*            |
-| [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070)                   | 1.5.0                    |
-| [Better Throwing Knives and Weapons - Redscript](https://www.nexusmods.com/cyberpunk2077/mods/9534)         | 1.0.0.0                  |
-| [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)                                         | 2.1                      |
-| [Suppressor Ricochet Restored](https://www.nexusmods.com/cyberpunk2077/mods/5754)                           | 1.0                      |
-| [Keep Drawing The Line (ricochet preview)](https://www.nexusmods.com/cyberpunk2077/mods/7198)               | 1.7                      |
-| [Actually Smart Weapons (aim for the head)](https://www.nexusmods.com/cyberpunk2077/mods/7281)              | 2.25                     |
-| [Buff's Melee Kerenzikov](https://www.nexusmods.com/cyberpunk2077/mods/9204)                                | 1.0.0 *(redscript)*      |
-| [Katana Deflect](https://www.nexusmods.com/cyberpunk2077/mods/9678)                                         | 1.0 *(block and attack*) |
-| [Katana or Melee Block From All Directions](https://www.nexusmods.com/cyberpunk2077/mods/9701)              | 1.0                      |
-| [HMG Pierces Walls TweakXL Mod]((https://www.nexusmods.com/cyberpunk2077/mods/9903)                         | 1.0                      |
-| [Better Optical Camo](https://www.nexusmods.com/cyberpunk2077/mods/4159)                                    | 2.2.1                    |
-| [Tuned Projectile Launch System](https://www.nexusmods.com/cyberpunk2077/mods/9869)                         | 0.1.1 *(full)*           |
-| [Custom Blackwall quickhacks](https://www.nexusmods.com/cyberpunk2077/mods/9759)                            | 1.0.1.0                  |
-| [Shadowrunner stops trace](https://www.nexusmods.com/cyberpunk2077/mods/9835)                               | 1                        |
-| [Tech Weapons Charge Timings](https://www.nexusmods.com/cyberpunk2077/mods/9705)                            | instant:1.1.0            |
+| Mod                                                                                                         | Version       |
+| ----------------------------------------------------------------------------------------------------------- | ------------- |
+| [Beatable Brats](https://www.nexusmods.com/cyberpunk2077/mods/6712)                                         | 1.1           |
+| [Immersion patch - No crowd panic form using devices](https://www.nexusmods.com/cyberpunk2077/mods/7353)    | CET:1.2.0     |
+| [Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360) | CET:1.0.0     |
+| [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070)                   | 1.5.0         |
+| [Better Throwing Knives and Weapons - Redscript](https://www.nexusmods.com/cyberpunk2077/mods/9534)         | 1.0.0.0       |
+| [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)                                         | 2.1           |
+| [Suppressor Ricochet Restored](https://www.nexusmods.com/cyberpunk2077/mods/5754)                           | expanded:1.0  |
+| [Keep Drawing The Line (ricochet preview)](https://www.nexusmods.com/cyberpunk2077/mods/7198)               | 1.8           |
+| [Actually Smart Weapons (aim for the head)](https://www.nexusmods.com/cyberpunk2077/mods/7281)              | 2.3           |
+| [Buff's Melee Kerenzikov](https://www.nexusmods.com/cyberpunk2077/mods/9204)                                | red:1.0.0     |
+| [Katana Deflect](https://www.nexusmods.com/cyberpunk2077/mods/9678)                                         | a&b:1.0       |
+| [Katana or Melee Block From All Directions](https://www.nexusmods.com/cyberpunk2077/mods/9701)              | 1.0           |
+| [HMG Pierces Walls TweakXL Mod]((https://www.nexusmods.com/cyberpunk2077/mods/9903)                         | 1.0           |
+| [Better Optical Camo](https://www.nexusmods.com/cyberpunk2077/mods/4159)                                    | 2.2.1         |
+| [Tuned Projectile Launch System](https://www.nexusmods.com/cyberpunk2077/mods/9869)                         | full:0.1.1    |
+| [Custom Blackwall quickhacks](https://www.nexusmods.com/cyberpunk2077/mods/9759)                            | 1.0.1.0       |
+| [Shadowrunner stops trace](https://www.nexusmods.com/cyberpunk2077/mods/9835)                               | 1             |
+| [Tech Weapons Charge Timings](https://www.nexusmods.com/cyberpunk2077/mods/9705)                            | instant:1.1.0 |
 
 ### Movement
 
-| Mod                                                                                   | Version            |
-| ------------------------------------------------------------------------------------- | ------------------ |
-| [Disable Vehicle Knockdown](https://www.nexusmods.com/cyberpunk2077/mods/6938)        | 2.0                |
-| [Better Dash - Air Dash](https://www.nexusmods.com/cyberpunk2077/mods/9452)           | 1.0.0.0            |
-| [Smoother Dodge And Dash](https://www.nexusmods.com/cyberpunk2077/mods/9331)          | 1.0 *(ultraspeed)* |
-| [Infinite Jump for CP2077 (2.0)](https://www.nexusmods.com/cyberpunk2077/mods/9268)   | 2.1                |
-| [No Hard Falls](https://www.nexusmods.com/cyberpunk2077/mods/5978)                    | v1                 |
-| [Sprint while blocking and aiming](https://www.nexusmods.com/cyberpunk2077/mods/9896) | 1.0.0.0            |
-| [More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043)           | 1.02               |
+| Mod                                                                                   | Version        |
+| ------------------------------------------------------------------------------------- | -------------- |
+| [Disable Vehicle Knockdown](https://www.nexusmods.com/cyberpunk2077/mods/6938)        | 2.0            |
+| [Better Dash - Air Dash](https://www.nexusmods.com/cyberpunk2077/mods/9452)           | main:1.0.0.0   |
+| [Smoother Dodge And Dash](https://www.nexusmods.com/cyberpunk2077/mods/9331)          | ultraspeed:1.0 |
+| [Infinite Jump for CP2077 (2.0)](https://www.nexusmods.com/cyberpunk2077/mods/9268)   | 2.1            |
+| [No Hard Falls](https://www.nexusmods.com/cyberpunk2077/mods/5978)                    | v1             |
+| [Sprint while blocking and aiming](https://www.nexusmods.com/cyberpunk2077/mods/9896) | 1.0.0.0        |
+| [More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043)           | 1.02           |
 
 ### World & Travel
 
@@ -155,13 +153,13 @@ Using while testing/developing
 
 ### Items, vehicles, mods, & hacks
 
-| Mod                                                                                   | Version         |
-| ------------------------------------------------------------------------------------- | --------------- |
-| [Solomons Stylish Glasses for V](https://www.nexusmods.com/cyberpunk2077/mods/9736)   | 1.10-release    |
-| [Archer Hella - Black Agent](https://www.nexusmods.com/cyberpunk2077/mods/9141)       | 2.0.1           |
-| [Better Kiroshi COCKATRICE Optics](https://www.nexusmods.com/cyberpunk2077/mods/9583) | 1.0             |
-| [Military Vest - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/9774)        | 1.0 *(vanilla)* |
-| [Militech Holosight](https://www.nexusmods.com/cyberpunk2077/mods/6463)               | 0.82            |
+| Mod                                                                                   | Version          |
+| ------------------------------------------------------------------------------------- | ---------------- |
+| [Solomons Stylish Glasses for V](https://www.nexusmods.com/cyberpunk2077/mods/9736)   | 1.10-release     |
+| [Archer Hella - Black Agent](https://www.nexusmods.com/cyberpunk2077/mods/9141)       | 2.0.1            |
+| [Better Kiroshi COCKATRICE Optics](https://www.nexusmods.com/cyberpunk2077/mods/9583) | 1.0              |
+| [Military Vest - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/9774)        | vanilla male:1.1 |
+| [Militech Holosight](https://www.nexusmods.com/cyberpunk2077/mods/6463)               | 0.82             |
 
 ### Virtual Shops
 
@@ -169,31 +167,32 @@ Using while testing/developing
 | ------------------------------------------------------------------------------------ | ------- | --------------- |
 | [Upgrade Materials Shop](https://www.nexusmods.com/cyberpunk2077/mods/10033)         | 1.0.0   | *vanilla*       |
 | [Cyberware Capacity Shards Shop](https://www.nexusmods.com/cyberpunk2077/mods/10031) | 1.0.0   | *vanilla*       |
-| [Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090)            | 1.0     | Military Vest   |
+| [Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090)            | 1.1     | Military Vest   |
 
 - No good AIO vanilla shop mods exist atm. I'm contemplating making "Vanilla Atelier". "Radioshack" for components, quickhacks, etc. Something for weapons ("Hekmatyar"?). And something for clothes. Or maybe multiple stores for clothes if there are too many...
 
 ### Miscellaneous
 
-| Mod                                                                                               | Version                               |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [Hacking Gets Tedious](https://www.nexusmods.com/cyberpunk2077/mods/6956)                         | 1.1                                   |
-| [Weathermancer](https://www.nexusmods.com/cyberpunk2077/mods/9805)                                | 1.0                                   |
-| [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)                                 | 1.1.6                                 |
-| [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)                                 | 1.4.3, override 1.0.0, hud 1.0.0      |
-| [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302)                                   | 1.1.0                                 |
-| [Item Modification Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/9449)                   | 1.2 *(attachments & mods ver.)*       |
-| [Unlocked Attachments](https://www.nexusmods.com/cyberpunk2077/mods/9358)                         | 1.0.1.1                               |
-| [Unlock Me A Slot](https://www.nexusmods.com/cyberpunk2077/mods/9675)                             | two:2.01, malorian:2.01               |
-| [Her Majesty Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/10026)                          | 1.6 *(fr and dmg ver.)*               |
-| [Vehicle Customizer](https://www.nexusmods.com/cyberpunk2077/mods/3689)                           | 3.1                                   |
-| [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)                        | dismiss 2.0.1, fav 2.0.0, short 1.0.0 |
-| [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669)                 | v130                                  |
-| [Use Your Cybernetic Eyes to Aim 2.01](https://www.nexusmods.com/cyberpunk2077/mods/6793)         | 2.0.1                                 |
-| [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)              | 1.4                                   |
-| [Kiroshi Optics Night Vision - Colour Edits](https://www.nexusmods.com/cyberpunk2077/mods/9991)   | 1 *(white desaturated)*               |
-| [Ping Tags Enemies](https://www.nexusmods.com/cyberpunk2077/mods/9950)                            | 1.1 *(enemies only)*                  |
-| [Any Ping can quickhack though wall](https://www.nexusmods.com/cyberpunk2077/mods/9298?tab=files) | 1.0                                   |
+| Mod                                                                                               | Version                                  |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [Hacking Gets Tedious](https://www.nexusmods.com/cyberpunk2077/mods/6956)                         | 1.1                                      |
+| [Weathermancer](https://www.nexusmods.com/cyberpunk2077/mods/9805)                                | 1.0                                      |
+| [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)                                 | 1.1.6                                    |
+| [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)                                 | main:1.4.3, override:1.0.0, hudfix:1.0.0 |
+| [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302)                                   | 1.1.0                                    |
+| [Item Modification Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/9449)                   | att and mods:1.2                         |
+| [Unlocked Attachments](https://www.nexusmods.com/cyberpunk2077/mods/9358)                         | 1.0.1.1                                  |
+| [Unlock Me A Slot](https://www.nexusmods.com/cyberpunk2077/mods/9675)                             | two:2.01, malorian:2.01                  |
+| [Her Majesty Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/10026)                          | firerate and dmg:1.6                     |
+| [Vehicle Customizer](https://www.nexusmods.com/cyberpunk2077/mods/3689)                           | 3.1                                      |
+| [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)                        | dismiss:2.0.1, fav:2.0.0, shorter:1.0.0  |
+| [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669)                 | v130                                     |
+| [Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675)                       | 1.4.0                                    |
+| [Use Your Cybernetic Eyes to Aim 2.01](https://www.nexusmods.com/cyberpunk2077/mods/6793)         | 2.0.1                                    |
+| [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)              | 1.4                                      |
+| [Kiroshi Optics Night Vision - Colour Edits](https://www.nexusmods.com/cyberpunk2077/mods/9991)   | white desaturated:1                      |
+| [Ping Tags Enemies](https://www.nexusmods.com/cyberpunk2077/mods/9950)                            | enemies only:1.1                         |
+| [Any Ping can quickhack though wall](https://www.nexusmods.com/cyberpunk2077/mods/9298?tab=files) | 1.0                                      |
 
 ## Visuals
 
@@ -207,7 +206,7 @@ Using while testing/developing
 | [Disable Loading Cinematics](https://www.nexusmods.com/cyberpunk2077/mods/3105)          | 1.0                        |
 | [Purify The UI (...)](https://www.nexusmods.com/cyberpunk2077/mods/2648)                 | 2.00                       |
 | [Junk In The Trunk - Wardrobe Access](https://www.nexusmods.com/cyberpunk2077/mods/5339) | 1.0.1                      |
-| [Car stash only on open Trunk](https://www.nexusmods.com/cyberpunk2077/mods/9158)        | 1.1 *(default)*            |
+| [Car stash only on open Trunk](https://www.nexusmods.com/cyberpunk2077/mods/9158)        | default:1.1                |
 | [Riiswalkers - Clean Effects](https://www.nexusmods.com/cyberpunk2077/mods/9776)         | 2.01-14.10.23-1            |
 | [Disable Zoom Glitch Effects]((https://www.nexusmods.com/cyberpunk2077/mods/5492)        | v1                         |
 | [Inventory Glitch Effect Removal](https://www.nexusmods.com/cyberpunk2077/mods/3251)     | 1.0                        |
@@ -218,39 +217,39 @@ Using while testing/developing
 
 ### Cosmetic
 
-| Mod                                                                                                     | Version                    |
-| ------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)                                   | 1.0                        |
-| [Clean Cars](https://www.nexusmods.com/cyberpunk2077/mods/4115)                                         | 1.1 *(+ windows)*          |
-| [Malorian Arms 3516 Alternative Ironsight Animation](https://www.nexusmods.com/cyberpunk2077/mods/9666) | 1.2 *(x2.0 + slide fix)*   |
-| [StatTrack Malorian Arms 3516](https://www.nexusmods.com/cyberpunk2077/mods/3994)                       | 1.1h *(red)*               |
-| [Malorian Arms 3516 - Skin Pack](https://www.nexusmods.com/cyberpunk2077/mods/2387)                     | 1.0 *(black and silver)*   |
-| [Malorian Arms 3516 Custom](https://www.nexusmods.com/cyberpunk2077/mods/1412)                          | 1.1 *(barrel & laser)*     |
-| [E3 Vindicator appearance](https://www.nexusmods.com/cyberpunk2077/mods/9877)                           | 2.1                        |
-| [Modified Ajax](https://www.nexusmods.com/cyberpunk2077/mods/7323)                                      | 0.1 *(archive)*            |
-| [NC residents eyes cleaned up](https://www.nexusmods.com/cyberpunk2077/mods/2993)                       | 1.0                        |
-| [Thermal Errata](https://www.nexusmods.com/cyberpunk2077/mods/9603)                                     | 1.0                        |
-| [Silver Handle for Byakko](https://www.nexusmods.com/cyberpunk2077/mods/9960)                           | 1.0.0.0 *(silver)*         |
-| [Clean Saratoga](https://www.nexusmods.com/cyberpunk2077/mods/9509)                                     | 1.0 *(black and clean)*    |
-| [Improved (Or Is It) Rain Effect](https://www.nexusmods.com/cyberpunk2077/mods/8076)                    | 2.0                        |
-| [Natural Californian Lighting Mod](https://www.nexusmods.com/cyberpunk2077/mods/6737)                   | 1.4 *(base only)*          |
-| [Ultimate Cyberpunk Graphics](https://www.nexusmods.com/cyberpunk2077/mods/9445)                        | 1.0 *(for NCLM 1.0)*       |
-| [Extended and Improved Headlights](https://www.nexusmods.com/cyberpunk2077/mods/5013)                   | 1.1                        |
-| [Persistent Throwable Weapons](https://www.nexusmods.com/cyberpunk2077/mods/9432)                       | 1.0.0                      |
-| [MPH to KMH](https://www.nexusmods.com/cyberpunk2077/mods/9713)                                         | 1.0.3 *(realistic values)* |
-| [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184)       | 1.0 *(4k, non-redmod)*     |
-| [Dirt Begone (Clean Mirrors)](https://www.nexusmods.com/cyberpunk2077/mods/8131)                        | 1.2.0a                     |
-| [Remodeled Carbon Fiber Overwatch](https://www.nexusmods.com/cyberpunk2077/mods/9384)                   | fewer decals:1.1           |
+| Mod                                                                                                     | Version               |
+| ------------------------------------------------------------------------------------------------------- | --------------------- |
+| [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)                                   | 1.0                   |
+| [Clean Cars](https://www.nexusmods.com/cyberpunk2077/mods/4115)                                         | cars:1.0, windows:1.1 |
+| [Malorian Arms 3516 Alternative Ironsight Animation](https://www.nexusmods.com/cyberpunk2077/mods/9666) | x2.0:1.2, slide:1.0   |
+| [StatTrack Malorian Arms 3516](https://www.nexusmods.com/cyberpunk2077/mods/3994)                       | red:1.1h              |
+| [Malorian Arms 3516 - Skin Pack](https://www.nexusmods.com/cyberpunk2077/mods/2387)                     | black and silver:1.0  |
+| [Malorian Arms 3516 Custom](https://www.nexusmods.com/cyberpunk2077/mods/1412)                          | barrel & laser:1.1    |
+| [E3 Vindicator appearance](https://www.nexusmods.com/cyberpunk2077/mods/9877)                           | 2.1                   |
+| [Modified Ajax](https://www.nexusmods.com/cyberpunk2077/mods/7323)                                      | archive:0.1           |
+| [NC residents eyes cleaned up](https://www.nexusmods.com/cyberpunk2077/mods/2993)                       | 1.0                   |
+| [Thermal Errata](https://www.nexusmods.com/cyberpunk2077/mods/9603)                                     | 1.0                   |
+| [Silver Handle for Byakko](https://www.nexusmods.com/cyberpunk2077/mods/9960)                           | silver:1.0.0.0        |
+| [Clean Saratoga](https://www.nexusmods.com/cyberpunk2077/mods/9509)                                     | black and clean:1.0   |
+| [Improved (Or Is It) Rain Effect](https://www.nexusmods.com/cyberpunk2077/mods/8076)                    | 2.0                   |
+| [Natural Californian Lighting Mod](https://www.nexusmods.com/cyberpunk2077/mods/6737)                   | base:1.4              |
+| [Ultimate Cyberpunk Graphics](https://www.nexusmods.com/cyberpunk2077/mods/9445)                        | NCLM:1.0              |
+| [Extended and Improved Headlights](https://www.nexusmods.com/cyberpunk2077/mods/5013)                   | 1.1                   |
+| [Persistent Throwable Weapons](https://www.nexusmods.com/cyberpunk2077/mods/9432)                       | 1.0.0                 |
+| [MPH to KMH](https://www.nexusmods.com/cyberpunk2077/mods/9713)                                         | realistic:1.0.3       |
+| [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184)       | 4k:1.0                |
+| [Dirt Begone (Clean Mirrors)](https://www.nexusmods.com/cyberpunk2077/mods/8131)                        | 1.2.0a                |
+| [Remodeled Carbon Fiber Overwatch](https://www.nexusmods.com/cyberpunk2077/mods/9384)                   | fewer decals:1.1      |
 
 ### NSFW
 
-| Mod                                                                                                   | Version            |
-| ----------------------------------------------------------------------------------------------------- | ------------------ |
-| [Manually Removed Player Underwear - AIO -TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/9780) | 1.1                |
-| [NSFW Erotic Posters](https://www.nexusmods.com/cyberpunk2077/mods/5925)                              | 1.0 *(non-REDMOD)* |
-| [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689)                          | 2.0.1-1.1          |
-| [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)                           | 2.0.1-2.1          |
-| [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)                             | 2.0.1-1.2          |
+| Mod                                                                                                   | Version    |
+| ----------------------------------------------------------------------------------------------------- | ---------- |
+| [Manually Removed Player Underwear - AIO -TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/9780) | 1.1        |
+| [NSFW Erotic Posters](https://www.nexusmods.com/cyberpunk2077/mods/5925)                              | nonred:1.0 |
+| [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689)                          | 2.0.1-1.1  |
+| [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738)                           | 2.0.1-2.1  |
+| [Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785)                             | 2.0.1-1.2  |
 
 ---
 
