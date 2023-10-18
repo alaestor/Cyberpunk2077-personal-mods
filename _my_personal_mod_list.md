@@ -206,6 +206,7 @@ Using while testing/developing
 | [Quantum Tuner Glitch VFX Disable](https://www.nexusmods.com/cyberpunk2077/mods/9734)    | 1.0                        |
 | [No More Sniper Scope Glitch FX](https://www.nexusmods.com/cyberpunk2077/mods/10001)     | 1.0                        |
 | [Preem Scopes](https://www.nexusmods.com/cyberpunk2077/mods/10021)                       | main:0.12.0, milholo:1.0.0 |
+| [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)                         | 2.8.1                      |
 | [Militech Holosight](https://www.nexusmods.com/cyberpunk2077/mods/6463)                  | 0.82                       |
 
 ### Cosmetic
