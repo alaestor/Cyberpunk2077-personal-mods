@@ -73,20 +73,23 @@ Using while testing/developing
 
 ## Libraries
 
-| Mod                                                                               | Version                  |
-|:--------------------------------------------------------------------------------- | ------------------------ |
-| [redscript](https://github.com/jac3km4/redscript)                                 | 0.5.16                   |
-| [RED4ext](https://github.com/WopsS/RED4ext)                                       | 1.17.0                   |
-| [Codeware](https://github.com/psiberx/cp2077-codeware)                            | 1.4.1                    |
-| [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks/)            | 1.27.1                   |
-| [TweakXL](https://github.com/psiberx/cp2077-tweak-xl/)                            | 1.4.3                    |
-| [ArchiveXL](https://github.com/psiberx/cp2077-archive-xl)                         | 1.7.0                    |
-| [Native Settings](https://www.nexusmods.com/cyberpunk2077/mods/3518)              | 1.95                     |
-| [Material & Texture Replacer](https://www.nexusmods.com/cyberpunk2077/mods/5266)  | 1.2 *(legacy)*           |
-| [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575?tab=files)       | 0.1.1                    |
-| [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)              | 1.0.2 *(full)*           |
-| [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)           | 2.0.1 *(+ layout patch)* |
-| [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) | 1.3h                     |
+| Mod                                                                               | Version                      |
+|:--------------------------------------------------------------------------------- | ---------------------------- |
+| [redscript](https://github.com/jac3km4/redscript)                                 | 0.5.16                       |
+| [RED4ext](https://github.com/WopsS/RED4ext)                                       | 1.17.0                       |
+| [Codeware](https://github.com/psiberx/cp2077-codeware)                            | 1.4.1                        |
+| [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks/)            | 1.27.1                       |
+| [TweakXL](https://github.com/psiberx/cp2077-tweak-xl/)                            | 1.4.3                        |
+| [ArchiveXL](https://github.com/psiberx/cp2077-archive-xl)                         | 1.7.0                        |
+| [Native Settings](https://www.nexusmods.com/cyberpunk2077/mods/3518)              | 1.95                         |
+| [Material & Texture Replacer](https://www.nexusmods.com/cyberpunk2077/mods/5266)  | 1.2 *(legacy)*               |
+| [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575?tab=files)       | 0.1.1                        |
+| [Browser Extension Framework](https://www.nexusmods.com/cyberpunk2077/mods/10038) | 0.9.1                        |
+| [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)              | 1.1.0 *(full + browser ext)* |
+| [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)           | 2.0.1 *(+ layout patch)*     |
+| [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) | 1.3h                         |
+
+
 
 ## Bugfixes
 
