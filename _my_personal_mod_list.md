@@ -2,35 +2,29 @@
 
 ## For game Version 2.0.1
 
-
-
 ---
 
 # Potential Mods
 
 ## Updated (v2.0.x)
 
+### High Consideration
+
+- [Autoloot](https://www.nexusmods.com/cyberpunk2077/mods/5202) (seems to have some issues...)
+
+### Low Consideration
+
 - [Graven's Atelier Collection](https://www.nexusmods.com/cyberpunk2077/mods/9834)
 
 - [Never Lock Quickhacks](https://www.nexusmods.com/cyberpunk2077/mods/9819)
 
-- [Preem Weaponsmith 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9692)
-
 - [AWSC - Advanced Weapon Stat Customization](https://www.nexusmods.com/cyberpunk2077/mods/9937)
-
-- [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=description)
-
-- [Custom Save Slots Amount](https://www.nexusmods.com/cyberpunk2077/mods/10095)
 
 - [Disable Reveal Position Hack](https://www.nexusmods.com/cyberpunk2077/mods/9306?tab=files) (redundant with precursor cyberdeck?)
 
 - [Vergil's Yamato standalone](https://www.nexusmods.com/cyberpunk2077/mods/10092)
 
-- [John Wick Inspired - Militech Omaha Lizzie](https://www.nexusmods.com/cyberpunk2077/mods/7858)
-
-- [Blackwall Saratoga](https://www.nexusmods.com/cyberpunk2077/mods/10159?tab=posts)
-
-- [Quickhacks Boost](https://www.nexusmods.com/cyberpunk2077/mods/10169) (needs some more features)
+- [Restrict Crafting and Upgrading to Inside Apartments Only](https://www.nexusmods.com/cyberpunk2077/mods/10211)
 
 ## Outdated
 
@@ -47,6 +41,8 @@
 ## Temporary
 
 Using while testing/developing
+
+*maybe not so temporary*
 
 | Mod                                                                    | Version |
 | ---------------------------------------------------------------------- | ------- |
@@ -67,14 +63,15 @@ Using while testing/developing
 | [RED4ext](https://github.com/WopsS/RED4ext)                                       | 1.17.0                    |
 | [Codeware](https://github.com/psiberx/cp2077-codeware)                            | 1.4.1                     |
 | [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks/)            | 1.27.1                    |
-| [TweakXL](https://github.com/psiberx/cp2077-tweak-xl/)                            | 1.4.3                     |
+| [TweakXL](https://github.com/psiberx/cp2077-tweak-xl/)                            | 1.4.4                     |
 | [ArchiveXL](https://github.com/psiberx/cp2077-archive-xl)                         | 1.7.0                     |
 | [Native Settings](https://www.nexusmods.com/cyberpunk2077/mods/3518)              | 1.95                      |
+| [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)                 | 0.2.1-for-2.01            |
 | [Material & Texture Replacer](https://www.nexusmods.com/cyberpunk2077/mods/5266)  | legacy:1.2                |
 | [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575?tab=files)       | 0.1.1                     |
-| [Browser Extension Framework](https://www.nexusmods.com/cyberpunk2077/mods/10038) | 0.9.1                     |
+| [Browser Extension Framework](https://www.nexusmods.com/cyberpunk2077/mods/10038) | 0.9.2                     |
 | [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)              | full:1.1.0, browser:1.1.0 |
-| [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)           | main:2.0.1, layout:2.0.0  |
+| [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)           | main:2.1.0, browser:2.1.0 |
 | [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) | 1.3h                      |
 
 ## Bugfixes
@@ -114,7 +111,7 @@ Using while testing/developing
 | [HMG Pierces Walls TweakXL Mod]((https://www.nexusmods.com/cyberpunk2077/mods/9903)                         | 1.0           |
 | [Better Optical Camo](https://www.nexusmods.com/cyberpunk2077/mods/4159)                                    | 2.2.1         |
 | [Tuned Projectile Launch System](https://www.nexusmods.com/cyberpunk2077/mods/9869)                         | full:0.1.1    |
-| [Custom Blackwall quickhacks](https://www.nexusmods.com/cyberpunk2077/mods/9759)                            | 1.0.1.0       |
+| [Custom Blackwall quickhacks](https://www.nexusmods.com/cyberpunk2077/mods/9759)                            | 1.0.1.7       |
 | [Shadowrunner stops trace](https://www.nexusmods.com/cyberpunk2077/mods/9835)                               | 1             |
 | [Tech Weapons Charge Timings](https://www.nexusmods.com/cyberpunk2077/mods/9705)                            | instant:1.1.0 |
 
@@ -141,13 +138,16 @@ Using while testing/developing
 
 ### Items, vehicles, mods, & hacks
 
-| Mod                                                                                   | Version          |
-| ------------------------------------------------------------------------------------- | ---------------- |
-| [Solomons Stylish Glasses for V](https://www.nexusmods.com/cyberpunk2077/mods/9736)   | 1.10-release     |
-| [Archer Hella - Black Agent](https://www.nexusmods.com/cyberpunk2077/mods/9141)       | 2.0.1            |
-| [Better Kiroshi COCKATRICE Optics](https://www.nexusmods.com/cyberpunk2077/mods/9583) | 1.0              |
-| [Military Vest - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/9774)        | vanilla male:1.1 |
-| [Militech Holosight](https://www.nexusmods.com/cyberpunk2077/mods/6463)               | 0.82             |
+| Mod                                                                                             | Version          |
+| ----------------------------------------------------------------------------------------------- | ---------------- |
+| [Solomons Stylish Glasses for V](https://www.nexusmods.com/cyberpunk2077/mods/9736)             | 1.10-release     |
+| [Archer Hella - Black Agent](https://www.nexusmods.com/cyberpunk2077/mods/9141)                 | 2.0.1            |
+| [John Wick Inspired - Militech Omaha Lizzie](https://www.nexusmods.com/cyberpunk2077/mods/7858) | nonred_aio:1     |
+| [Blackwall M251s AJAX](https://www.nexusmods.com/cyberpunk2077/mods/10202)                      | default:1.0      |
+| [Blackwall Saratoga](https://www.nexusmods.com/cyberpunk2077/mods/10159)                        | fenrir:1.2.0.1   |
+| [Better Kiroshi COCKATRICE Optics](https://www.nexusmods.com/cyberpunk2077/mods/9583)           | 1.0              |
+| [Military Vest - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/9774)                  | vanilla male:1.1 |
+| [Militech Holosight](https://www.nexusmods.com/cyberpunk2077/mods/6463)                         | 0.82             |
 
 ### Virtual Shops
 
@@ -164,10 +164,13 @@ Using while testing/developing
 | Mod                                                                                               | Version                                  |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | [Hacking Gets Tedious](https://www.nexusmods.com/cyberpunk2077/mods/6956)                         | 1.1                                      |
+| [Quickhacks Boost](https://www.nexusmods.com/cyberpunk2077/mods/10169)                            | 3.0                                      |
 | [Weathermancer](https://www.nexusmods.com/cyberpunk2077/mods/9805)                                | 1.0                                      |
 | [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)                                 | 1.1.6                                    |
 | [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)                                 | main:1.4.3, override:1.0.0, hudfix:1.0.0 |
 | [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302)                                   | 1.1.0                                    |
+| [Preem Weaponsmith 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9692)                        | sandbox:2.2.3                            |
+| [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=posts)                     | 3.0.3                                    |
 | [Item Modification Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/9449)                   | att and mods:1.2                         |
 | [Unlocked Attachments](https://www.nexusmods.com/cyberpunk2077/mods/9358)                         | 1.0.1.1                                  |
 | [Unlock Me A Slot](https://www.nexusmods.com/cyberpunk2077/mods/9675)                             | two:2.01, malorian:2.01                  |
@@ -186,22 +189,22 @@ Using while testing/developing
 
 ### UI
 
-| Mod                                                                                      | Version                    |
-| ---------------------------------------------------------------------------------------- | -------------------------- |
-| [Better Fast Travel Map](https://www.nexusmods.com/cyberpunk2077/mods/9214)              | v1                         |
-| [Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)                  | 1.1.0                      |
-| [Ultimate Kill Counter](https://www.nexusmods.com/cyberpunk2077/mods/9372)               | 1.0                        |
-| [Disable Loading Cinematics](https://www.nexusmods.com/cyberpunk2077/mods/3105)          | 1.0                        |
-| [Purify The UI (...)](https://www.nexusmods.com/cyberpunk2077/mods/2648)                 | 2.00                       |
-| [Junk In The Trunk - Wardrobe Access](https://www.nexusmods.com/cyberpunk2077/mods/5339) | 1.0.1                      |
-| [Car stash only on open Trunk](https://www.nexusmods.com/cyberpunk2077/mods/9158)        | default:1.1                |
-| [Riiswalkers - Clean Effects](https://www.nexusmods.com/cyberpunk2077/mods/9776)         | 2.01-14.10.23-1            |
-| [Disable Zoom Glitch Effects]((https://www.nexusmods.com/cyberpunk2077/mods/5492)        | v1                         |
-| [Inventory Glitch Effect Removal](https://www.nexusmods.com/cyberpunk2077/mods/3251)     | 1.0                        |
-| [Quantum Tuner Glitch VFX Disable](https://www.nexusmods.com/cyberpunk2077/mods/9734)    | 1.0                        |
-| [No More Sniper Scope Glitch FX](https://www.nexusmods.com/cyberpunk2077/mods/10001)     | 1.0                        |
-| [Preem Scopes](https://www.nexusmods.com/cyberpunk2077/mods/10021)                       | main:0.12.0, milholo:1.0.0 |
-| [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)                         | 2.8.1                      |
+| Mod                                                                                      | Version                                 |
+| ---------------------------------------------------------------------------------------- | --------------------------------------- |
+| [Better Fast Travel Map](https://www.nexusmods.com/cyberpunk2077/mods/9214)              | v1                                      |
+| [Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)                  | 1.1.0                                   |
+| [Ultimate Kill Counter](https://www.nexusmods.com/cyberpunk2077/mods/9372)               | 1.0                                     |
+| [Disable Loading Cinematics](https://www.nexusmods.com/cyberpunk2077/mods/3105)          | 1.0                                     |
+| [Purify The UI (...)](https://www.nexusmods.com/cyberpunk2077/mods/2648)                 | 2.00                                    |
+| [Junk In The Trunk - Wardrobe Access](https://www.nexusmods.com/cyberpunk2077/mods/5339) | 1.0.1                                   |
+| [Car stash only on open Trunk](https://www.nexusmods.com/cyberpunk2077/mods/9158)        | default:1.1                             |
+| [Riiswalkers - Clean Effects](https://www.nexusmods.com/cyberpunk2077/mods/9776)         | 2.01-14.10.23-1                         |
+| [Disable Zoom Glitch Effects]((https://www.nexusmods.com/cyberpunk2077/mods/5492)        | v1                                      |
+| [Inventory Glitch Effect Removal](https://www.nexusmods.com/cyberpunk2077/mods/3251)     | 1.0                                     |
+| [Quantum Tuner Glitch VFX Disable](https://www.nexusmods.com/cyberpunk2077/mods/9734)    | 1.0                                     |
+| [No More Sniper Scope Glitch FX](https://www.nexusmods.com/cyberpunk2077/mods/10001)     | 1.0                                     |
+| [Preem Scopes](https://www.nexusmods.com/cyberpunk2077/mods/10021)                       | main:0.15.0, milholo:1.0.0, smart:1.0.0 |
+| [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)                         | 2.9.0                                   |
 
 ### Cosmetic
 
