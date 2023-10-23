@@ -10,6 +10,7 @@
 
 ### High Consideration
 
+- [v2's City of Dreams Ultimate Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10064) (waiting for AIO)
 - [Autoloot](https://www.nexusmods.com/cyberpunk2077/mods/5202) (seems to have some issues...)
 
 ### Low Consideration
@@ -114,6 +115,9 @@ Using while testing/developing
 | [Custom Blackwall quickhacks](https://www.nexusmods.com/cyberpunk2077/mods/9759)                            | 1.0.1.7       |
 | [Shadowrunner stops trace](https://www.nexusmods.com/cyberpunk2077/mods/9835)                               | 1             |
 | [Tech Weapons Charge Timings](https://www.nexusmods.com/cyberpunk2077/mods/9705)                            | instant:1.1.0 |
+| [Improved Rasetsu with Custom Silencer](https://www.nexusmods.com/cyberpunk2077/mods/10311)                 | 1.0           |
+
+
 
 ### Movement
 
@@ -126,15 +130,17 @@ Using while testing/developing
 | [No Hard Falls](https://www.nexusmods.com/cyberpunk2077/mods/5978)                    | v1             |
 | [Sprint while blocking and aiming](https://www.nexusmods.com/cyberpunk2077/mods/9896) | 1.0.0.0        |
 | [More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043)           | 1.02           |
+| [No Walk Auto Disable](https://www.nexusmods.com/cyberpunk2077/mods/3966)             | 1.0            |
 
 ### World & Travel
 
-| Mod                                                                            | Version |
-| ------------------------------------------------------------------------------ | ------- |
-| [GTA Travel](https://www.nexusmods.com/cyberpunk2077/mods/2006)                | 1.9     |
-| [Metro System](https://www.nexusmods.com/cyberpunk2077/mods/3560)              | 1.91    |
-| [Realistic Traffic Density](https://www.nexusmods.com/cyberpunk2077/mods/6457) | 3.0     |
-| [QoL - Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724)  | 1.0.0   |
+| Mod                                                                                                      | Version                 |
+| -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [GTA Travel](https://www.nexusmods.com/cyberpunk2077/mods/2006)                                          | 1.9                     |
+| [Fast Travel from anywhere to everywhere - redscript](https://www.nexusmods.com/cyberpunk2077/mods/9241) | to_travel_point:1.0.0.2 |
+| [Metro System](https://www.nexusmods.com/cyberpunk2077/mods/3560)                                        | 1.91                    |
+| [Realistic Traffic Density](https://www.nexusmods.com/cyberpunk2077/mods/6457)                           | 3.0                     |
+| [QoL - Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724)                            | 1.0.0                   |
 
 ### Items, vehicles, mods, & hacks
 
@@ -151,39 +157,47 @@ Using while testing/developing
 
 ### Virtual Shops
 
-| Mod                                                                                  | Version | Associated Mods |
-| ------------------------------------------------------------------------------------ | ------- | --------------- |
-| [Upgrade Materials Shop](https://www.nexusmods.com/cyberpunk2077/mods/10033)         | 1.0.0   | *vanilla*       |
-| [Cyberware Capacity Shards Shop](https://www.nexusmods.com/cyberpunk2077/mods/10031) | 1.0.0   | *vanilla*       |
-| [Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090)            | 1.1     | Military Vest   |
+| Mod                                                                                             | Version | Associated Mods |
+| ----------------------------------------------------------------------------------------------- | ------- | --------------- |
+| [Upgrade Materials Shop](https://www.nexusmods.com/cyberpunk2077/mods/10033)                    | 1.0.0   |                 |
+| [Attribute Perk Ability Talent Shards Shop](https://www.nexusmods.com/cyberpunk2077/mods/10161) | 1.0.0   |                 |
+| [Cyberware Capacity Shards Shop](https://www.nexusmods.com/cyberpunk2077/mods/10031)            | 1.0.0   |                 |
+| [Weapon Mods Store](https://www.nexusmods.com/cyberpunk2077/mods/10027)                         | 2.0     |                 |
+| [Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090)                       | 1.1     | Military Vest   |
 
 - No good AIO vanilla shop mods exist atm. I'm contemplating making "Vanilla Atelier". "Radioshack" for components, quickhacks, etc. Something for weapons ("Hekmatyar"?). And something for clothes. Or maybe multiple stores for clothes if there are too many...
 
 ### Miscellaneous
 
-| Mod                                                                                               | Version                                  |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [Hacking Gets Tedious](https://www.nexusmods.com/cyberpunk2077/mods/6956)                         | 1.1                                      |
-| [Quickhacks Boost](https://www.nexusmods.com/cyberpunk2077/mods/10169)                            | 3.0                                      |
-| [Weathermancer](https://www.nexusmods.com/cyberpunk2077/mods/9805)                                | 1.0                                      |
-| [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)                                 | 1.1.6                                    |
-| [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)                                 | main:1.4.3, override:1.0.0, hudfix:1.0.0 |
-| [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302)                                   | 1.1.0                                    |
-| [Preem Weaponsmith 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9692)                        | sandbox:2.2.3                            |
-| [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=posts)                     | 3.0.3                                    |
-| [Item Modification Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/9449)                   | att and mods:1.2                         |
-| [Unlocked Attachments](https://www.nexusmods.com/cyberpunk2077/mods/9358)                         | 1.0.1.1                                  |
-| [Unlock Me A Slot](https://www.nexusmods.com/cyberpunk2077/mods/9675)                             | two:2.01, malorian:2.01                  |
-| [Her Majesty Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/10026)                          | firerate and dmg:1.6                     |
-| [Vehicle Customizer](https://www.nexusmods.com/cyberpunk2077/mods/3689)                           | 3.1                                      |
-| [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)                        | dismiss:2.0.1, fav:2.0.0, shorter:1.0.0  |
-| [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669)                 | v130                                     |
-| [Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675)                       | 1.4.0                                    |
-| [Use Your Cybernetic Eyes to Aim 2.01](https://www.nexusmods.com/cyberpunk2077/mods/6793)         | 2.0.1                                    |
-| [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)              | 1.4                                      |
-| [Kiroshi Optics Night Vision - Colour Edits](https://www.nexusmods.com/cyberpunk2077/mods/9991)   | white desaturated:1                      |
-| [Ping Tags Enemies](https://www.nexusmods.com/cyberpunk2077/mods/9950)                            | enemies only:1.1                         |
-| [Any Ping can quickhack though wall](https://www.nexusmods.com/cyberpunk2077/mods/9298?tab=files) | 1.0                                      |
+| Mod                                                                                                             | Version                                  |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [Hacking Gets Tedious](https://www.nexusmods.com/cyberpunk2077/mods/6956)                                       | 1.1                                      |
+| [Quickhacks Boost](https://www.nexusmods.com/cyberpunk2077/mods/10169)                                          | 3.0                                      |
+| [QuickHack Instantly](https://www.nexusmods.com/cyberpunk2077/mods/10278)                                       | 1.1                                      |
+| [Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557)                                         | 2.0.1                                    |
+| [Weathermancer](https://www.nexusmods.com/cyberpunk2077/mods/9805)                                              | 1.0                                      |
+| [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521)                                                | 2.0.1                                    |
+| [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)                                               | 1.1.6                                    |
+| [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)                                               | main:1.4.3, override:1.0.0, hudfix:1.0.0 |
+| [RipperDeck](https://www.nexusmods.com/cyberpunk2077/mods/9302)                                                 | 1.1.0                                    |
+| [Preem Weaponsmith 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9692)                                      | sandbox:2.2.3                            |
+| [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378?tab=posts)                                   | 3.0.3                                    |
+| [Item Modification Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/9449)                                 | att and mods:1.2                         |
+| [Unlocked Attachments](https://www.nexusmods.com/cyberpunk2077/mods/9358)                                       | 1.0.1.1                                  |
+| [Unlock Me A Slot](https://www.nexusmods.com/cyberpunk2077/mods/9675)                                           | two:2.01, malorian:2.01                  |
+| [Her Majesty Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/10026)                                        | firerate and dmg:1.6                     |
+| [Vehicle Customizer](https://www.nexusmods.com/cyberpunk2077/mods/3689)                                         | 3.1                                      |
+| [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)                                      | dismiss:2.0.1, fav:2.0.0, shorter:1.0.0  |
+| [JB - TPP MOD WIP third person](https://www.nexusmods.com/cyberpunk2077/mods/669)                               | v130                                     |
+| [Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675)                                     | 1.4.0                                    |
+| [Use Your Cybernetic Eyes to Aim 2.01](https://www.nexusmods.com/cyberpunk2077/mods/6793)                       | 2.0.1                                    |
+| [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)                            | 1.4                                      |
+| [Kiroshi Optics Night Vision - Colour Edits](https://www.nexusmods.com/cyberpunk2077/mods/9991)                 | white desaturated:1                      |
+| [Reduced AI For High Intensity Activities - Reduce Stutter](https://www.nexusmods.com/cyberpunk2077/mods/10326) | 1.1                                      |
+| [Ping Tags Enemies](https://www.nexusmods.com/cyberpunk2077/mods/9950)                                          | enemies only:1.1                         |
+| [Any Ping can quickhack though wall](https://www.nexusmods.com/cyberpunk2077/mods/9298?tab=files)               | 1.0                                      |
+
+
 
 ## Visuals
 
@@ -196,6 +210,7 @@ Using while testing/developing
 | [Ultimate Kill Counter](https://www.nexusmods.com/cyberpunk2077/mods/9372)               | 1.0                                     |
 | [Disable Loading Cinematics](https://www.nexusmods.com/cyberpunk2077/mods/3105)          | 1.0                                     |
 | [Purify The UI (...)](https://www.nexusmods.com/cyberpunk2077/mods/2648)                 | 2.00                                    |
+| [Cleaner Main Menu and Pause Menu](https://www.nexusmods.com/cyberpunk2077/mods/10285)   | 1.1                                     |
 | [Junk In The Trunk - Wardrobe Access](https://www.nexusmods.com/cyberpunk2077/mods/5339) | 1.0.1                                   |
 | [Car stash only on open Trunk](https://www.nexusmods.com/cyberpunk2077/mods/9158)        | default:1.1                             |
 | [Riiswalkers - Clean Effects](https://www.nexusmods.com/cyberpunk2077/mods/9776)         | 2.01-14.10.23-1                         |
@@ -265,7 +280,56 @@ Game.AddToInventory("Items.wolv_reed_specs")
 ```
 
 ```
-Game.AddToInventory("Items.wolv_reed_specs_gold")
+Game.AddToInventory("Items.wolv_reed_specs_gold")`
+```
+
+### Useful Vanilla Cyberware (not comprehensive)
+
+```
+Game.AddToInventory("Items.Iconic_AdvancedKiroshiOpticsBareLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedKiroshiOpticsCombinedLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedMaxTacMantisBladesLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedProjectileLauncherLegendaryPlusPlus")
+Game.AddToInventory("Items.AdvancedStaminaRegenBoosterLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedBiomonitorLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedCyberRotorsLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedSecondHeartLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedBioConductorsLegendary_PlusPlus");
+Game.AddToInventory("Items.IconicBioConductorsLegendaryPlusPlus");
+Game.AddToInventory("Items.IconicAdvancedSubdermalCoProcessorLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedKerenziovBoostSystemLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedTimeBankLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedSelfIceLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedBerserkC4MK5PlusPlus");
+Game.AddToInventory("Items.CapacityBoosterLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedPainDistributorLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedAgileJointsLegendaryPlusPlus");
+Game.AddToInventory("Items.IconicAdvancedT1000LegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedT1000LegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedBoneMarrowCellsLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedDenseMarrowLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedBionicJointsLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedPowerGripLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedSmartLinkLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedJointLockLegendaryPlusPlus");
+Game.AddToInventory("Items.IconicGunStabilizerLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedDetectorRushLegendaryPlusPlus");
+Game.AddToInventory("Items.IconicAdvancedVisualCortexSupportLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedKerenzikovLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedNeoFiberLegendaryPlusPlus");
+Game.AddToInventory("Items.IconicAdvancedReflexRecorderLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedOilDispenserLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedSynapticAcceleratorLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedBoringPlatingLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedAdaptiveStemCellsLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedOpticalCamoLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedPainReductorLegendaryPlusPlus");
+Game.AddToInventory("Items.IconicAdvancedProximityReducerLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedReinforcedMusclesLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedJenkinsTendonsLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedCatPawsLegendaryPlusPlus");
+Game.AddToInventory("Items.AdvancedBoostedTendonsLegendaryPlusPlus");
+Game.AddToInventory("Items.IconicJenkinsTendonsLegendaryPlusPlus");
 ```
 
 ---
