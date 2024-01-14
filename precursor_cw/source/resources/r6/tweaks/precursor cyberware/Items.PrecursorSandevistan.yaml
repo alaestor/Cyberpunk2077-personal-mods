@@ -11,9 +11,9 @@ Items.PrecursorSandevistan:
       UIData:
         $type: gamedataGameplayLogicPackageUIData_Record
         localizedDescription: LocKey#PrecursorSandevistan_flavor
-    - $base: Items.AdvancedSandevistanApogeePlusPlus_inline9 # sande slow
+    - $base: Items.AdvancedSandevistanApogeePlusPlus_inline0 # sande slow
       UIData:
-        $base: Items.AdvancedSandevistanApogeePlusPlus_inline10
+        $base: Items.AdvancedSandevistanApogeePlusPlus_inline1
         localizedDescription: LocKey#PrecursorSandevistan_ability
         floatValues:
           - 99.999
@@ -30,8 +30,8 @@ Items.PrecursorSandevistan:
     #- Variants.Humanity60Cost
     - Variants.Humanity0Cost
   statModifiers:
-    - Items.AdvancedSandevistanApogeePlusPlus_inline0 # Iconic
-    - Items.AdvancedSandevistanApogeePlusPlus_inline1 # Sande
+    - Items.AdvancedSandevistanApogeePlusPlus_inline18 # Iconic
+    - Items.AdvancedSandevistanApogeePlusPlus_inline19 # Sande
     - $type: gamedataConstantStatModifier_Record # Duration
       value: 60
       modifierType: Additive
